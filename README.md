@@ -1,4 +1,4 @@
-# Frontend Mentor - REST Countries API with color theme switcher solution
+# REST Countries API with color theme switcher solution
 
 Production deployment Demo on Vercel: https://my-countries-app-with-redux.vercel.app/
 
